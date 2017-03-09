@@ -1,2 +1,2 @@
 # myProjects
-Hi hello world
+Hi hello world but in the read me option
